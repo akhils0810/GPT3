@@ -15,20 +15,6 @@ This project is a modern, responsive web application inspired by OpenAI's GPT-3.
 - CSS3 (Flexbox, Grid, BEM)
 - JavaScript (ES6+)
 
-## How to Run
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/akhils0810/GPT3.git
-   ```
-2. Install dependencies:
-   ```bash
-   npm install
-   ```
-3. Start the development server:
-   ```bash
-   npm start
-   ```
-4. Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 ## Personal Note
 This project was created as part of my journey to improve my frontend development skills. Feedback and suggestions are welcome!
