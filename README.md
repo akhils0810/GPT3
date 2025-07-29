@@ -1,20 +1,34 @@
 # Modern UI/UX GPT-3
 
-### [🌟 Become a top 1% Next.js 13 developer in only one course](https://jsmastery.pro/next13)
-### [🚀 Land your dream programming job in 6 months](https://jsmastery.pro/masterclass)
+## About
+This project is a modern, responsive web application inspired by OpenAI's GPT-3. It was built as a personal learning project to practice React, advanced CSS, and UI/UX design principles. The goal was to create a visually appealing, user-friendly landing page for an AI platform.
 
-## Stay up to date with new projects
-New major projects coming soon, subscribe to the mailing list to stay up to date https://resource.jsmasterypro.com/newsletter
+## Features
+- Modern, clean UI/UX
+- Responsive design for all devices
+- Animated gradients and interactive elements
+- Modular React components
+- Custom CSS styling (BEM methodology)
 
-## Introduction
-This is a code repository for the corresponding video tutorial. 
+## Technologies Used
+- React.js (Functional Components)
+- CSS3 (Flexbox, Grid, BEM)
+- JavaScript (ES6+)
 
-You might be wondering, what are the prerequisites for building such an amazing website? Don't worry, this course is completely beginner-friendly! We're going to start easy and them move to more complex topics. Every step of the way will be explained. Alongside building the website, you'll learn:
+## How to Run
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/akhils0810/GPT3.git
+   ```
+2. Install dependencies:
+   ```bash
+   npm install
+   ```
+3. Start the development server:
+   ```bash
+   npm start
+   ```
+4. Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-- React Functional components and their reusability
-- React file and folder structure
-- Fundamental CSS properties to master flex & grid
-- Fundamentals of the CSS BEM Model
-- From soft and pleasant animations to complex gradients
-- Perfectly placed media queries for satisfactory responsiveness covering almost devices
-- And at the end you'll learn how to deploy your websites to extremely fast servers and give them a custom domain name.
+## Personal Note
+This project was created as part of my journey to improve my frontend development skills. Feedback and suggestions are welcome!
