@@ -5,16 +5,28 @@ import './whatGPT3.css';
 const WhatGPT3 = () => (
   <div className="gpt3__whatgpt3 section__margin" id="wgpt3">
     <div className="gpt3__whatgpt3-feature">
-      <Feature title="What is GPT-3" text="We so opinion friends me message as delight. Whole front do of plate heard oh ought. His defective nor convinced residence own. Connection has put impossible own apartments boisterous. At jointure ladyship an insisted so humanity he. Friendly bachelor entrance to on by." />
+      <Feature
+        title="Revolutionary AI Technology"
+        text="Experience the next generation of artificial intelligence that understands context, learns from interactions, and adapts to your specific needs. Our advanced AI platform combines cutting-edge machine learning with intuitive design to deliver unprecedented results."
+      />
     </div>
     <div className="gpt3__whatgpt3-heading">
-      <h1 className="gradient__text">The possibilities are beyond your imagination</h1>
-      <p>Explore the Library</p>
+      <h1 className="gradient__text">Unlock Infinite Possibilities with AI</h1>
+      <p>Discover how our platform can transform your business</p>
     </div>
     <div className="gpt3__whatgpt3-container">
-      <Feature title="Chatbots" text="We so opinion friends me message as delight. Whole front do of plate heard oh ought." />
-      <Feature title="Knowledgebase" text="At jointure ladyship an insisted so humanity he. Friendly bachelor entrance to on by. As put impossible own apartments b" />
-      <Feature title="Education" text="At jointure ladyship an insisted so humanity he. Friendly bachelor entrance to on by. As put impossible own apartments b" />
+      <Feature
+        title="Intelligent Automation"
+        text="Streamline your workflows with AI-powered automation that learns and improves over time. Reduce manual tasks and focus on what matters most to your business."
+      />
+      <Feature
+        title="Natural Language Processing"
+        text="Communicate with AI in plain English. Our advanced NLP capabilities understand context, sentiment, and intent to provide accurate, helpful responses."
+      />
+      <Feature
+        title="Predictive Analytics"
+        text="Make data-driven decisions with confidence. Our AI analyzes patterns and trends to provide actionable insights and predict future outcomes."
+      />
     </div>
   </div>
 );
